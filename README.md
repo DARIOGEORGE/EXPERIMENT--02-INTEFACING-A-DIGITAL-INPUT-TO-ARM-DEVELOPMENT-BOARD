@@ -153,8 +153,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  
-![Output(prg)1](https://user-images.githubusercontent.com/118704873/229057900-0fb8687a-deab-4e8c-af47-f8cebbf7018e.jpg)
-![Output(prg)2](https://user-images.githubusercontent.com/118704873/229057963-5ea1ed77-15b4-4e11-bebe-ac609c0bd9aa.jpg)
+![LED ON](https://user-images.githubusercontent.com/118704873/229057900-0fb8687a-deab-4e8c-af47-f8cebbf7018e.jpg)
+![LED OFF](https://user-images.githubusercontent.com/118704873/229057963-5ea1ed77-15b4-4e11-bebe-ac609c0bd9aa.jpg)
 
  
  
